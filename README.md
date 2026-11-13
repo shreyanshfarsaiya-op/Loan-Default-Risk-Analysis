@@ -46,9 +46,10 @@ The Medium tier is 57% of loans, too many to review by hand. Filtering to $20K+ 
 
 ## Dashboard
 
-![Overview](screenshots/overview.png)
-![Segments](screenshots/segments.png)
-![Review Queue](screenshots/review_queue.png)
+<img width="1200" height="672" alt="Overview" src="https://github.com/user-attachments/assets/a4461ed8-63bc-4cd4-861d-593a7e97ef5b" />
+<img width="1201" height="672" alt="Segments" src="https://github.com/user-attachments/assets/e0c93f0b-5c5b-49bb-ae72-0ab9dbaee29a" />
+<img width="1198" height="676" alt="Review Queue" src="https://github.com/user-attachments/assets/76d1c13c-63eb-4273-8670-a47fb5a44c85" />
+
 
 ## Limitations
 
